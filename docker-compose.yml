@@ -1,0 +1,10 @@
+version: '3'
+services:
+  myintro:
+    build: ./app
+    ports:
+      - "8080:80"
+  todo:
+    build: ./todoapp
+    ports:
+      - "3000:3000"
