@@ -10,7 +10,7 @@ Xiang Jiannan
 ![Me](./app/placeholder.jpg)
 
 ## application link
-- Introduce website: https://your-railway-site.up.railway.app
-- todo application: https://your-todo-app.up.railway.app
+- Introduce website: http://43.56.89.116:8080
+- todo application: http://43.56.89.116:8081
 
 
